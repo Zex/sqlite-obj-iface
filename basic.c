@@ -1,4 +1,6 @@
 /*
+ * basic.c
+ *
  * Author: Zex <top_zlynch@yahoo.com>
  *
  * Basic for demo of SQLite C interfaces
